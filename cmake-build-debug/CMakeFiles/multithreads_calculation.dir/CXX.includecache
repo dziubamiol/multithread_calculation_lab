@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mishadziuba/Documents/University/UNIX/Labs/multithreads_calculation/main.cpp
+iostream
+-
+random
+-
+mutex
+-
+thread
+-
+
